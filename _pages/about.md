@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-<!-- I am a Master's student in the Department of Electrical and Computer Engineering at Princeton University. My research focuses on Machine Learning Systems, currently I am focusing on addressing system-level challenges in LLM reasoning. I am fortunate to work closely with [Prof. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) and [Prof. Yilun Du](https://yilundu.github.io/). -->
 
-I am a Master's student in the Department of Electrical and Computer Engineering at Princeton University. My research focuses on Machine Learning Systems, currently I am focusing on addressing system-level challenges in LLM reasoning. I am fortunate to work closely with [Prof. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) and [Prof. Yilun Du](https://yilundu.github.io/). Previously, I completely my undergraduate studies in the Department of Electronic Engineering at Tsinghua University, where I was fortunately to be advised by [Prof. Yu Wang](https://nicsefc.ee.tsinghua.edu.cn/) on neural architecture search and AI accelerator design.
+I am a Master’s student in the Department of Electrical and Computer Engineering at Princeton University, where my research focuses on Machine Learning Systems. Currently, I am exploring system-level challenges in LLM reasoning. I am fortunate to work under the guidance of [Prof. Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) and [Prof. Yilun Du](https://yilundu.github.io/).
+
+Previously, I completed my undergraduate studies in the Department of Electronic Engineering at Tsinghua University. There, I was fortunate to be advised by [Prof. Yu Wang](https://nicsefc.ee.tsinghua.edu.cn/) on neural architecture search and AI accelerator design.
 
 
 **I am looking for PhD positions starting Fall 2025 and research internship opportunities for Summer 2025.**
