@@ -1,18 +1,12 @@
-# Authors
+# Author details
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Chenyu Wang:
+  name        : "Chenyu Wang"
+  uri         : "https://billwang485.github.io"
+  email       : "cw9420@princeton.edu"
+  bio         : "Master's student in ECE at Princeton University, focusing on Machine Learning Systems and LLM reasoning"
+  avatar      : "profile.png"  # Using the default profile image name
+  location    : "Princeton University"
+  employer    : "Department of Electrical and Computer Engineering"
+  googlescholar : "https://scholar.google.com/citations?hl=en&user=QI96hfoAAAAJ"
+  linkedin    : "chenyu-wang-49866a28a"
