@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chenyu Wang"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Chenyu Wang"
 description              : &description "Master's student in ECE at Princeton University"
@@ -21,13 +21,13 @@ repository               : "billwang485/billwang485.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Wang.Chenyu.01.jpg"
   name             : "Chenyu Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Master's student in ECE at Princeton University, focusing on Machine Learning Systems and LLM reasoning"
-  location         : "Princeton University"
-  employer         : "Department of Electrical and Computer Engineering"
-  uri              : "https://billwang485.github.io"
+  bio              : "Master's student in ECE at Princeton University"
+  # location         : "Princeton University"
+  # employer         : "Department of Electrical and Computer Engineering"
+  # uri              : "https://billwang485.github.io"
   email            : "cw9420@princeton.edu"
 
   # Academic websites
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username
   codepen          : # Username
   dribbble         : # Username
-  github           : "billwang485"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -77,7 +77,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Preprints'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
@@ -224,6 +224,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  # research:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site

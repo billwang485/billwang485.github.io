@@ -1,16 +1,16 @@
 # Main navigation links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Research"
-    url: /research/    
+  # - title: "Research"
+  #   url: /research/    
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
