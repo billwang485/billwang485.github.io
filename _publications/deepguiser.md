@@ -4,6 +4,6 @@ collection: publications
 date: 2023-06-01
 venue: 'preprint'
 year: '2022'
-authors:  Yi Cai*, Chenyu Wang*, Zixuan Zhou, Xuefei Ning, Huazhong Yang, and Yu Wang
+authors:  Yi Cai\*, Chenyu Wang\*, Zixuan Zhou, Xuefei Ning, Huazhong Yang, and Yu Wang
 paperurl: 'https://openreview.net/pdf?id=PArJcOptzg'
 ---
