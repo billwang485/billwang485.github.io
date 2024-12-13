@@ -1,0 +1,24 @@
+name: Weekly Website Analytics Report
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # 每周日午夜运行
+
+jobs:
+  send-report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      
+      - name: Install dependencies
+        run: npm install
+
+      - name: Send weekly report
+        run: node scripts/weeklyReport.js
+        env:
+          GA_VIEW_ID: ${{ secrets.GA_VIEW_ID }}
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
